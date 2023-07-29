@@ -96,7 +96,7 @@ p {
     height: 82px;
     padding-top: 80px;
     background: #e4fcfb
-url("../assets/images/bg_header.png") center no-repeat / cover;
+url('../assets/images/bg_header.png') center no-repeat / cover;
     /*for alligning this picture to center of it's position and to cover space from left to right border*/  
 }
 
@@ -104,7 +104,7 @@ url("../assets/images/bg_header.png") center no-repeat / cover;
     display: flex;
     position: relative;
     height: 535px;
-    background: url("../assets/images/SYT_182422-e.jpg") center no-repeat / cover;
+    background: url('../assets/images/SYT_182422-e.jpg') center no-repeat / cover;
     background-position: 50% 56%;
     box-shadow: 1px 1px 5px 1px #646363;
 }
