@@ -335,7 +335,7 @@ h5 {
     display: flex;
     position: relative;
     height: 535px;
-    background: url("../images_Soho/6088841.jpg") center no-repeat / cover;
+    background: url("../images/6088841.jpg") center no-repeat / cover;
     background-position: 50% 75%;
     box-shadow: 1px 1px 5px 1px #646363;
 }
@@ -411,7 +411,7 @@ h5 {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url("../images_Soho/welcome_rectangle_soho.png") center no-repeat / cover;
+    background: url("../images/welcome_rectangle_soho.png") center no-repeat / cover;
     background-size: 100% 100%;
     background-position: 50% 50%;
     margin-right: 10px;
@@ -462,7 +462,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/10173380.png") center no-repeat / cover;
+    background: url("../images/10173380.png") center no-repeat / cover;
     float: left;
 }
 
@@ -478,7 +478,7 @@ h5 {
     min-height: 250px;
     height: 200px;
     width: 350px;
-    background: url("../images_Soho/png-transparent-cocktail-emoji-drink-noto-fonts-drink-food-orange-flower.png") center no-repeat / cover;
+    background: url("../images/png-transparent-cocktail-emoji-drink-noto-fonts-drink-food-orange-flower.png") center no-repeat / cover;
     float: right;
     margin-left: 10%;
 }
@@ -519,7 +519,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/confetti-2-xxl.png") center no-repeat / cover;
+    background: url("../images/confetti-2-xxl.png") center no-repeat / cover;
     float: left;
 }
 
@@ -528,7 +528,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/calvin-klein-boxer-3-pack.jpg") center no-repeat / cover;
+    background: url("../images/calvin-klein-boxer-3-pack.jpg") center no-repeat / cover;
     float: left;
 }
 
@@ -537,7 +537,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/6490803460.jpg") center no-repeat / cover;
+    background: url("../images/6490803460.jpg") center no-repeat / cover;
     float: left;
 }
 
@@ -546,7 +546,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/6490803459.jpg") center no-repeat / cover;
+    background: url("../images/6490803459.jpg") center no-repeat / cover;
     float: left;
 }
 
@@ -555,7 +555,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/caiq5dj531dsn13mrqqg.jpg") center no-repeat / cover;
+    background: url("../images/caiq5dj531dsn13mrqqg.jpg") center no-repeat / cover;
     float: left;
 }
 
@@ -564,7 +564,7 @@ h5 {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/Unknown.png") center no-repeat / cover;
+    background: url("../images/Unknown.png") center no-repeat / cover;
     float: left;
 }
 
@@ -588,7 +588,7 @@ div.image_link_2 img {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/ULTIMATE-LONGBOARD-SURFBOARD-ORANGE-CAMO-_HYBRID-EPOXY-SOFTTOP_a7f8b736-97bd-4e41-989d-3aabf05dc4f2.jpg.webp") center no-repeat / cover;
+    background: url("../images/ULTIMATE-LONGBOARD-SURFBOARD-ORANGE-CAMO-_HYBRID-EPOXY-SOFTTOP_a7f8b736-97bd-4e41-989d-3aabf05dc4f2.jpg.webp") center no-repeat / cover;
     float: left;
 }
 
@@ -597,7 +597,7 @@ div.image_link_2 img {
     min-height: 250px;
     height: 200px;
     width: 350px;
-    background: url("../images_Soho/scruge.png") center no-repeat / cover;
+    background: url("../images/scruge.png") center no-repeat / cover;
     float: right;
     margin-left: 10%;
 }
@@ -607,7 +607,7 @@ div.image_link_2 img {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/woman-with-surfboard-beach_637458-541.png") center no-repeat / cover;
+    background: url("../images/woman-with-surfboard-beach_637458-541.png") center no-repeat / cover;
     float: left;
 }
 
@@ -616,7 +616,7 @@ div.image_link_2 img {
     min-height: 250px;
     height: 750px;
     width: 350px;
-    background: url("../images_Soho/Untitled-1.png") center no-repeat / cover;
+    background: url("../images/Untitled-1.png") center no-repeat / cover;
     float: right;
     margin-left: 10%;
 }
@@ -626,7 +626,7 @@ div.image_link_2 img {
     min-height: 250px;
     height: 250px;
     width: 250px;
-    background: url("../images_Soho/el_capitan.png") center no-repeat / cover;
+    background: url("../images/el_capitan.png") center no-repeat / cover;
     float: left;
 }
 
